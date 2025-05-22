@@ -123,11 +123,12 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 
-men_stepped_on_the_moon=input()
+men_stepped_on_the_moon=input()  
 print(men_stepped_on_the_moon)
 
+
 ## Output
-![438640380-81d01fa2-7ce3-4064-8d86-20faacd67fae](https://github.com/user-attachments/assets/b998caa7-be79-4281-8713-527be2030f2d)
+![5](https://github.com/user-attachments/assets/90073761-fdb4-4756-a3c1-46b67b789ec0)
 
 ## Result
-Thus the program is executed successfully
+ Thus, the program has been successfully execute.
