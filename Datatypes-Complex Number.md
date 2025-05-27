@@ -1,29 +1,21 @@
-# 🧮 Datatypes-Complex Number Creation in Python
+# 🧮  Ex-04-Datatypes-Complex Number Creation in Python
 
 ## 🎯 Aim
-To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
+To write a python program to Add  two complex  numbers.
 
 ## 🧠 Algorithm
-1. Read an integer input from the user and assign it to the variable a (real part).
-2. Read another integer input from the user and assign it to the variable b (imaginary part).
-3. Create a complex number x using the complex(a, b) function.
-4. Print the complex number x.
-5. Print the real part of x using x.real.
-6. Print the imaginary part of x using x.imag.
-
+1. Set a variable `c1` to the result of the expression `12+3j`.
+2. Set a variable `c2` to the result of the expression `4+5j`.
+3. print `(c1+c2)`.
 
 ## 💻 Program
-
-x=int(input(''))
-y=int(input(''))
-x=complex(x,y)
-print(x)
-print(x.real)
-print(x.imag)
-
+```
+c1=12+3j
+c2=4+5j
+print(c1+c2)
+```
 ## Output
-![438639571-778828b7-6c2b-4a39-9984-6b60a54eb980](https://github.com/user-attachments/assets/31586238-a956-469b-814c-f368cf28d8e2)
-
+![Screenshot 2025-05-15 022259](https://github.com/user-attachments/assets/48a8cb38-a1df-4e17-8cfd-3f70fc852959)
 
 ## Result
-Thus, the program as been executed successfully.
+Thus the  python program to Add  two complex  numbers has executed successfully.
