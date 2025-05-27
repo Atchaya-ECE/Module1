@@ -1,6 +1,6 @@
 # EX-01-Conditional Statements in Python: Even or Odd Checker
 
-## 🎯 Aim
+## 🎯 Aim 
 To write a Python program to check whether the given number is **odd** or **not anodd** using `nested if..else.` statements.
 
 ## 🧠 Algorithm
