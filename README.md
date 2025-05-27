@@ -13,8 +13,7 @@ To write a Python program to check whether the given number is **odd** or **not 
 
 ## 🧾 Program
 ```
-Developed by:Atchaya.V
-Register.no:212224060031
+
 a=int(input())
 if a%2==1:
     if a>=25:
@@ -50,8 +49,6 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```
-Developed by:Atchaya.V
-Register.no:212224060031
 
 a= (0 == True)
 b= (False== False)
@@ -80,8 +77,7 @@ To write a Python program that prints the characters `'A'` and `'O'` using chara
 
 ## 🧾 Program
 ```
-Developed by:Atchaya.V
-Register.no:212224060031
+
 a=input()
 o=input()
 print(a)
@@ -106,8 +102,7 @@ To write a python program to Add  two complex  numbers.
 
 ## 💻 Program
 ```
-Developed by: Atchaya.V
-Register.no:212224060031
+
 c1=12+3j
 c2=4+5j
 print(c1+c2)
@@ -130,8 +125,6 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 ```
-Developed by:Atchaya.V
-Register.no:212224060031
 
 value=input()
 print(value)
